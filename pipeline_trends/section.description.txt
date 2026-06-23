@@ -1,0 +1,1 @@
+Explore the temporal trends in the global health R&D pipeline, tracking how distributions across R&D stages shift over time by global health area, disease, and product, with filters and legend controls to refine the analysis.

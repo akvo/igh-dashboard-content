@@ -1,0 +1,1 @@
+A row-by-row view of every approved product matching the page-level filters. Use the per-column filters below each header to narrow further, then export the matching rows to .csv.

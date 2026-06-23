@@ -1,0 +1,1 @@
+An end-to-end interactive view of the global health R&D pipeline, from investigational candidates to approved products reaching people in need.

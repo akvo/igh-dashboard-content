@@ -1,0 +1,1 @@
+Ranks the five product types with the most candidates. Reflects the active filters.

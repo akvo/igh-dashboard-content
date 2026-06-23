@@ -1,0 +1,1 @@
+A snapshot of how the R&D pipeline is distributed across product types. Click on the drop-down to toggle between candidates, approved products or both. Use the ··· menu to export the chart as an image or the underlying data as .csv.

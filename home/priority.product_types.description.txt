@@ -1,0 +1,1 @@
+Distribution of R&D pipeline across product types.

@@ -1,0 +1,1 @@
+Each horizontal bar shows a product type, with colour-coded segments for how many candidates and approved products sit at each R&D stage. Use the page-level filters to narrow the view, click items in the legend to toggle stages on or off, or use Export Visual to save the chart as an image.

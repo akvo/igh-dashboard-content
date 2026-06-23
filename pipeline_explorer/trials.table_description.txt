@@ -1,0 +1,1 @@
+The clinical trial table is a matrix of individual studies, providing granular details such as title, clinical trial status, location, start date, URL and more. Use the per-column filters below each header to narrow results, then export the matching rows to .csv.

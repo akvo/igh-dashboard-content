@@ -1,0 +1,1 @@
+Three summary charts cover approval status, approving authorities and WHO prequalification. A searchable table below lists every approved product matching the page-level filters.

@@ -1,0 +1,1 @@
+Explore the underlying data for the selected portfolios by aggregated R&D stage in the chosen year, enabling detailed comparison of portfolio compositions.

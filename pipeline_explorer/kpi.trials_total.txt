@@ -1,0 +1,1 @@
+The number of clinical trials linked to the pipeline that match the current filters.

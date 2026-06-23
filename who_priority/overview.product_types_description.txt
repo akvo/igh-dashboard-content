@@ -1,0 +1,1 @@
+A snapshot of how the R&D pipeline is distributed across product types. Use the ··· menu to export the chart as an image or the underlying data as .csv.

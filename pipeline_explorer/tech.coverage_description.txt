@@ -1,0 +1,1 @@
+How the selected technology type covers individual diseases, split by global health area. Select a bar to see the candidates and approved products for that disease.
