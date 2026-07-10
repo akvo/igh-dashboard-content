@@ -223,10 +223,6 @@
     "type": "text",
     "maxLength": 20
   },
-  "layout.filters.year": {
-    "type": "text",
-    "maxLength": 20
-  },
   "layout.header.about.description": {
     "type": "text",
     "maxLength": 150
