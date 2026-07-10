@@ -1,0 +1,1 @@
+Number of studies at each stage across the portfolio, from ongoing to completed.

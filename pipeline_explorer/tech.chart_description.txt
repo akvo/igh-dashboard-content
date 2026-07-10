@@ -1,0 +1,1 @@
+Each bar shows a technology type within the selected product, split by R&D stage.

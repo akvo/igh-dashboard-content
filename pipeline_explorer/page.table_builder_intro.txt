@@ -1,0 +1,1 @@
+Build custom tables of candidates, approved products, clinical trials and R&D priorities, then export as CSV. Page-level filters stay applied across the Visual Insights view and Table Builder. Use Share this view to copy a link with your filters preserved. On every table you can sort by any column and use the Columns button (top right) to show, hide or reorder columns.

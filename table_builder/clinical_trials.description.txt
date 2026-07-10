@@ -1,0 +1,1 @@
+Clinical trials joined to the candidates they study — useful for tracing trial activity back to specific assets in the pipeline. Filter by global health area, disease or product type, then choose columns for trial-level detail.

@@ -1,0 +1,1 @@
+Explore the temporal trends for each selected portfolio with R&D stages aggregated into early development, late development, and approved products across IGH review years.

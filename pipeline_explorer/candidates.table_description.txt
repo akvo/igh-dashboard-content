@@ -1,0 +1,1 @@
+A matrix of candidates scoped by the page-level filters, with per-column filters below each header to narrow further. Each row gives candidate-level detail: name, R&D stage, developer, indication and more.

@@ -1,0 +1,1 @@
+Explore the temporal trends in a single portfolio with R&D stages aggregated into early development, late development, and approved products. Each cluster represents an aggregated R&D stage across IGH review years, showing how the portfolio shifts over time at a higher level than the granular stage view above.

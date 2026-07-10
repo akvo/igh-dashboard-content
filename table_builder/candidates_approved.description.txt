@@ -1,0 +1,1 @@
+Candidates and approved products in a single table — useful for comparing the pipeline of in-development assets against what has already reached market. Filter by global health area, disease, product type or R&D stage, then sort and choose columns to fit the question at hand.

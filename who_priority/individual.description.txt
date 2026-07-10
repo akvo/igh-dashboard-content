@@ -1,0 +1,1 @@
+Focus on a single WHO priority. Select a priority to see the pipeline mapped to it — the candidates working towards that priority, its target population, and how that pipeline builds up by R&D stage. Click Explore selected priority to open its full detail, including a link to the source.

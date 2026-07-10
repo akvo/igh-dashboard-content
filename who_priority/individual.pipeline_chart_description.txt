@@ -1,0 +1,1 @@
+How the pipeline for the selected priority builds up across R&D stages. Each bar shows a product type, segmented by the candidates at each stage; click items in the legend to toggle stages on or off, or use the ··· menu to export the chart or its data.

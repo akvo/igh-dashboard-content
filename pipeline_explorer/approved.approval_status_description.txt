@@ -1,0 +1,1 @@
+This chart shows the total number of approved products by approval status. Each bar represents a specific approval status, enabling quick comparison across statuses.

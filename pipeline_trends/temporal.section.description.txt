@@ -1,0 +1,1 @@
+Explore how selected portfolios evolve over time in the global health R&D pipeline. Analyse the temporal progression of a single portfolio, by one or more diseases and products, or compare up to four portfolios side by side to identify differences in stage distribution and trajectory.

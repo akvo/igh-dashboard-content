@@ -1,0 +1,1 @@
+The clinical-trial layer of the pipeline — who is being studied, where, and at what stage. Two charts, a map and a searchable table cover age group, status, geography and trial-level detail.

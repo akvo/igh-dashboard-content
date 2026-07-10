@@ -1,0 +1,1 @@
+A matrix of the candidates linked to the selected priority, with per-column filters beneath each header to narrow further. Sort by any column, use the Columns button to show, hide or reorder columns, follow the Explore → link on any row to open that candidate's full record, or export the matching rows to .csv.

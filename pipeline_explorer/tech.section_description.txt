@@ -1,0 +1,1 @@
+Each card shows a product type with its total candidate count and technology count. Select a card to see how that product type breaks down by technology and R&D stage in the chart below.

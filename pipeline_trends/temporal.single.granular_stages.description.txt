@@ -1,0 +1,1 @@
+Explore the temporal trends in a single portfolio, showing how distributions across R&D stages change over time. Filter by disease and product, and use the R&D stage legend and year controls to include or exclude specific stages and IGH review years for more focused analysis.
