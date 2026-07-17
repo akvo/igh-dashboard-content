@@ -1,0 +1,5 @@
+This platform gives you an at-a-glance view of the global effort to develop new health products for the world’s most neglected diseases. The home page brings together key statistics from across the full pipeline — from early-stage candidates still in the lab, through to products that have reached the people who need them most.
+
+Each visual on this page offers a snapshot of a different dimension of that story: the scale of research activity across disease areas, where in the world trials are being conducted and developers are based, how pipelines are distributed across development stages, and how progress has shifted over time.
+
+Use the visuals to explore what interests you most, and follow the links to dive deeper into the detailed data and analysis available throughout the portal.

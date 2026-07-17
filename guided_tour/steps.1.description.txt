@@ -1,0 +1,1 @@
+Use the side menu to jump between Home, Pipeline Overview, Pipeline Explorer, Pipeline Trends and WHO Priority Alignment.

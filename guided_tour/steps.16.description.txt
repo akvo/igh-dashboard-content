@@ -1,0 +1,1 @@
+Select one specific priority and click on apply to load the pipeline that is related to that priority.

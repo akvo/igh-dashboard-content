@@ -1,0 +1,1 @@
+Every filter that is activated remains active throughout the portal. To deactivate a filter you can always see which filters are active in this filter screen.

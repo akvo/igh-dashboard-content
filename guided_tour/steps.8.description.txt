@@ -1,0 +1,1 @@
+Tick or untick the checkboxes in the legend to show or hide specific categories within the charts.

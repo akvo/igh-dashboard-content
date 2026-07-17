@@ -1,0 +1,1 @@
+Use these filters to focus the data across every chart and map on this page at once. Any selection you make will automatically update all visuals to reflect your chosen scope.
