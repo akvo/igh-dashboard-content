@@ -481,7 +481,7 @@
   },
   "layout.header.insights.item_blindspots_description": {
     "type": "text",
-    "maxLength": 150
+    "maxLength": 200
   },
   "layout.header.insights.item_blindspots_label": {
     "type": "text",
