@@ -455,6 +455,14 @@
     "type": "text",
     "maxLength": 30
   },
+  "layout.header.data.item_snakebite_description": {
+    "type": "text",
+    "maxLength": 150
+  },
+  "layout.header.data.item_snakebite_label": {
+    "type": "text",
+    "maxLength": 50
+  },
   "layout.header.data.item_spillover_description": {
     "type": "text",
     "maxLength": 150
@@ -471,13 +479,13 @@
     "type": "text",
     "maxLength": 30
   },
-  "layout.header.insights.item_dialogues_description": {
+  "layout.header.insights.item_blindspots_description": {
     "type": "text",
     "maxLength": 150
   },
-  "layout.header.insights.item_dialogues_label": {
+  "layout.header.insights.item_blindspots_label": {
     "type": "text",
-    "maxLength": 50
+    "maxLength": 80
   },
   "layout.header.insights.item_health_areas_description": {
     "type": "text",
