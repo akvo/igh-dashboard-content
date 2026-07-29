@@ -615,17 +615,9 @@
     "type": "text",
     "maxLength": 20
   },
-  "layout.sidebar.help_contact_body_intro": {
-    "type": "text",
-    "maxLength": 150
-  },
   "layout.sidebar.help_contact_description": {
     "type": "text",
     "maxLength": 100
-  },
-  "layout.sidebar.help_contact_heading": {
-    "type": "text",
-    "maxLength": 50
   },
   "layout.sidebar.help_contact_title": {
     "type": "text",
