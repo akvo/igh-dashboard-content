@@ -1,29 +1,29 @@
 {
-  "guided_tour.confirm_no": {
+  "guided_tour.confirm.no": {
     "type": "text",
     "maxLength": 20
   },
-  "guided_tour.confirm_prompt": {
+  "guided_tour.confirm.prompt": {
     "type": "text",
     "maxLength": 80
   },
-  "guided_tour.confirm_start": {
+  "guided_tour.confirm.start": {
     "type": "text",
     "maxLength": 20
   },
-  "guided_tour.finish": {
+  "guided_tour.controls.finish": {
     "type": "text",
     "maxLength": 20
   },
-  "guided_tour.navigating": {
+  "guided_tour.controls.navigating": {
     "type": "text",
     "maxLength": 40
   },
-  "guided_tour.next": {
+  "guided_tour.controls.next": {
     "type": "text",
     "maxLength": 20
   },
-  "guided_tour.step_of": {
+  "guided_tour.controls.step_of": {
     "type": "text",
     "maxLength": 20
   },
@@ -203,11 +203,11 @@
     "type": "text",
     "maxLength": 50
   },
-  "home.map.tab_developers": {
+  "home.map.tabs.developers": {
     "type": "text",
     "maxLength": 50
   },
-  "home.map.tab_trials": {
+  "home.map.tabs.trials": {
     "type": "text",
     "maxLength": 50
   },
@@ -230,6 +230,14 @@
   "home.portfolio.title": {
     "type": "text",
     "maxLength": 100
+  },
+  "home.portfolio.x_axis": {
+    "type": "text",
+    "maxLength": 60
+  },
+  "home.portfolio.y_axis": {
+    "type": "text",
+    "maxLength": 60
   },
   "home.priority.area_description": {
     "type": "text",
@@ -275,51 +283,51 @@
     "type": "text",
     "maxLength": 100
   },
-  "home.reports.card_1_description": {
+  "home.reports.cards.1.description": {
     "type": "text",
     "maxLength": 150
   },
-  "home.reports.card_1_image": {
+  "home.reports.cards.1.image": {
     "type": "text",
     "maxLength": 200
   },
-  "home.reports.card_1_title": {
+  "home.reports.cards.1.title": {
     "type": "text",
     "maxLength": 150
   },
-  "home.reports.card_1_url": {
+  "home.reports.cards.1.url": {
     "type": "text",
     "maxLength": 200
   },
-  "home.reports.card_2_description": {
+  "home.reports.cards.2.description": {
     "type": "text",
     "maxLength": 400
   },
-  "home.reports.card_2_image": {
+  "home.reports.cards.2.image": {
     "type": "text",
     "maxLength": 200
   },
-  "home.reports.card_2_title": {
+  "home.reports.cards.2.title": {
     "type": "text",
     "maxLength": 150
   },
-  "home.reports.card_2_url": {
+  "home.reports.cards.2.url": {
     "type": "text",
     "maxLength": 200
   },
-  "home.reports.card_3_description": {
+  "home.reports.cards.3.description": {
     "type": "text",
     "maxLength": 400
   },
-  "home.reports.card_3_image": {
+  "home.reports.cards.3.image": {
     "type": "text",
     "maxLength": 200
   },
-  "home.reports.card_3_title": {
+  "home.reports.cards.3.title": {
     "type": "text",
     "maxLength": 150
   },
-  "home.reports.card_3_url": {
+  "home.reports.cards.3.url": {
     "type": "text",
     "maxLength": 200
   },
@@ -354,6 +362,10 @@
   "home.trends.title": {
     "type": "text",
     "maxLength": 50
+  },
+  "home.trends.x_axis": {
+    "type": "text",
+    "maxLength": 60
   },
   "layout.filters.clear": {
     "type": "text",
@@ -391,43 +403,43 @@
     "type": "text",
     "maxLength": 150
   },
-  "layout.header.about.item_advocacy_description": {
+  "layout.header.about.items.advocacy.description": {
     "type": "text",
     "maxLength": 100
   },
-  "layout.header.about.item_advocacy_label": {
+  "layout.header.about.items.advocacy.label": {
     "type": "text",
     "maxLength": 30
   },
-  "layout.header.about.item_contact_description": {
+  "layout.header.about.items.contact.description": {
     "type": "text",
     "maxLength": 200
   },
-  "layout.header.about.item_contact_label": {
+  "layout.header.about.items.contact.label": {
     "type": "text",
     "maxLength": 30
   },
-  "layout.header.about.item_council_description": {
+  "layout.header.about.items.council.description": {
     "type": "text",
     "maxLength": 250
   },
-  "layout.header.about.item_council_label": {
+  "layout.header.about.items.council.label": {
     "type": "text",
     "maxLength": 50
   },
-  "layout.header.about.item_join_description": {
+  "layout.header.about.items.join.description": {
     "type": "text",
     "maxLength": 350
   },
-  "layout.header.about.item_join_label": {
+  "layout.header.about.items.join.label": {
     "type": "text",
     "maxLength": 20
   },
-  "layout.header.about.item_team_description": {
+  "layout.header.about.items.team.description": {
     "type": "text",
     "maxLength": 150
   },
-  "layout.header.about.item_team_label": {
+  "layout.header.about.items.team.label": {
     "type": "text",
     "maxLength": 20
   },
@@ -439,35 +451,35 @@
     "type": "text",
     "maxLength": 30
   },
-  "layout.header.data.item_gfinder_description": {
+  "layout.header.data.items.gfinder.description": {
     "type": "text",
     "maxLength": 150
   },
-  "layout.header.data.item_gfinder_label": {
+  "layout.header.data.items.gfinder.label": {
     "type": "text",
     "maxLength": 50
   },
-  "layout.header.data.item_pipeline_description": {
+  "layout.header.data.items.pipeline.description": {
     "type": "text",
     "maxLength": 150
   },
-  "layout.header.data.item_pipeline_label": {
+  "layout.header.data.items.pipeline.label": {
     "type": "text",
     "maxLength": 30
   },
-  "layout.header.data.item_snakebite_description": {
+  "layout.header.data.items.snakebite.description": {
     "type": "text",
     "maxLength": 150
   },
-  "layout.header.data.item_snakebite_label": {
+  "layout.header.data.items.snakebite.label": {
     "type": "text",
     "maxLength": 50
   },
-  "layout.header.data.item_spillover_description": {
+  "layout.header.data.items.spillover.description": {
     "type": "text",
     "maxLength": 150
   },
-  "layout.header.data.item_spillover_label": {
+  "layout.header.data.items.spillover.label": {
     "type": "text",
     "maxLength": 50
   },
@@ -479,79 +491,79 @@
     "type": "text",
     "maxLength": 30
   },
-  "layout.header.insights.item_blindspots_description": {
+  "layout.header.insights.items.blindspots.description": {
     "type": "text",
     "maxLength": 200
   },
-  "layout.header.insights.item_blindspots_label": {
+  "layout.header.insights.items.blindspots.label": {
     "type": "text",
     "maxLength": 80
   },
-  "layout.header.insights.item_health_areas_description": {
+  "layout.header.insights.items.health_areas.description": {
     "type": "text",
     "maxLength": 350
   },
-  "layout.header.insights.item_health_areas_label": {
+  "layout.header.insights.items.health_areas.label": {
     "type": "text",
     "maxLength": 30
   },
-  "layout.header.insights.item_hub_impact_description": {
+  "layout.header.insights.items.hub_impact.description": {
     "type": "text",
     "maxLength": 200
   },
-  "layout.header.insights.item_hub_impact_label": {
+  "layout.header.insights.items.hub_impact.label": {
     "type": "text",
     "maxLength": 50
   },
-  "layout.header.insights.item_hub_investment_description": {
+  "layout.header.insights.items.hub_investment.description": {
     "type": "text",
     "maxLength": 200
   },
-  "layout.header.insights.item_hub_investment_label": {
+  "layout.header.insights.items.hub_investment.label": {
     "type": "text",
     "maxLength": 50
   },
-  "layout.header.insights.item_hubs_description": {
+  "layout.header.insights.items.hubs.description": {
     "type": "text",
     "maxLength": 200
   },
-  "layout.header.insights.item_hubs_label": {
+  "layout.header.insights.items.hubs.label": {
     "type": "text",
     "maxLength": 20
   },
-  "layout.header.insights.item_reports_description": {
+  "layout.header.insights.items.reports.description": {
     "type": "text",
     "maxLength": 200
   },
-  "layout.header.insights.item_reports_label": {
+  "layout.header.insights.items.reports.label": {
     "type": "text",
     "maxLength": 30
   },
-  "layout.header.insights.item_womens_hub_description": {
+  "layout.header.insights.items.womens_hub.description": {
     "type": "text",
     "maxLength": 150
   },
-  "layout.header.insights.item_womens_hub_label": {
+  "layout.header.insights.items.womens_hub.label": {
     "type": "text",
     "maxLength": 30
   },
-  "layout.header.nav_about": {
+  "layout.header.nav.about": {
     "type": "text",
     "maxLength": 30
   },
-  "layout.header.nav_data": {
+  "layout.header.nav.data": {
     "type": "text",
     "maxLength": 20
   },
-  "layout.header.nav_insights": {
+  "layout.header.nav.insights": {
     "type": "text",
     "maxLength": 20
   },
-  "layout.header.nav_news": {
+  "layout.header.nav.news": {
     "type": "text",
     "maxLength": 20
   },
-  "layout.header.nav_tools": {
+  "layout.header.nav.tools": {
     "type": "text",
     "maxLength": 20
   },
@@ -567,19 +579,19 @@
     "type": "text",
     "maxLength": 30
   },
-  "layout.header.tools.item_100days_description": {
+  "layout.header.tools.items.100days.description": {
     "type": "text",
     "maxLength": 150
   },
-  "layout.header.tools.item_100days_label": {
+  "layout.header.tools.items.100days.label": {
     "type": "text",
     "maxLength": 50
   },
-  "layout.header.tools.item_framework_description": {
+  "layout.header.tools.items.framework.description": {
     "type": "text",
     "maxLength": 250
   },
-  "layout.header.tools.item_framework_label": {
+  "layout.header.tools.items.framework.label": {
     "type": "text",
     "maxLength": 30
   },
@@ -611,331 +623,443 @@
     "type": "text",
     "maxLength": 20
   },
-  "layout.sidebar.help_button": {
+  "layout.sidebar.help.button": {
     "type": "text",
     "maxLength": 20
   },
-  "layout.sidebar.help_contact_description": {
+  "layout.sidebar.help.contact_description": {
     "type": "text",
     "maxLength": 100
   },
-  "layout.sidebar.help_contact_title": {
+  "layout.sidebar.help.contact_title": {
     "type": "text",
     "maxLength": 30
   },
-  "layout.sidebar.help_intro": {
+  "layout.sidebar.help.intro": {
     "type": "text",
     "maxLength": 80
   },
-  "layout.sidebar.help_send_email": {
+  "layout.sidebar.help.send_email": {
     "type": "text",
     "maxLength": 20
   },
-  "layout.sidebar.help_start_tour": {
+  "layout.sidebar.help.start_tour": {
     "type": "text",
     "maxLength": 30
   },
-  "layout.sidebar.help_title": {
+  "layout.sidebar.help.title": {
     "type": "text",
     "maxLength": 30
   },
-  "layout.sidebar.help_tour_description": {
+  "layout.sidebar.help.tour_description": {
     "type": "text",
     "maxLength": 100
   },
-  "layout.sidebar.help_tour_title": {
+  "layout.sidebar.help.tour_title": {
     "type": "text",
     "maxLength": 30
   },
-  "layout.sidebar.nav_home": {
+  "layout.sidebar.nav.home": {
     "type": "text",
     "maxLength": 20
   },
-  "layout.sidebar.nav_pipeline_explorer": {
+  "layout.sidebar.nav.pipeline_explorer": {
     "type": "text",
     "maxLength": 30
   },
-  "layout.sidebar.nav_pipeline_overview": {
+  "layout.sidebar.nav.pipeline_overview": {
     "type": "text",
     "maxLength": 30
   },
-  "layout.sidebar.nav_pipeline_trends": {
+  "layout.sidebar.nav.pipeline_trends": {
     "type": "text",
     "maxLength": 30
   },
-  "layout.sidebar.nav_who_priority": {
-    "type": "text",
-    "maxLength": 30
-  },
-  "layout.sidebar.section_general": {
+  "layout.sidebar.nav.section_general": {
     "type": "text",
     "maxLength": 20
   },
-  "pipeline_explorer.approved.approval_status_description": {
+  "layout.sidebar.nav.who_priority": {
     "type": "text",
-    "maxLength": 200
-  },
-  "pipeline_explorer.approved.approval_status_title": {
-    "type": "text",
-    "maxLength": 50
-  },
-  "pipeline_explorer.approved.approving_auth_description": {
-    "type": "text",
-    "maxLength": 200
-  },
-  "pipeline_explorer.approved.approving_auth_title": {
-    "type": "text",
-    "maxLength": 50
-  },
-  "pipeline_explorer.approved.intro": {
-    "type": "text",
-    "maxLength": 200
-  },
-  "pipeline_explorer.approved.table_description": {
-    "type": "text",
-    "maxLength": 250
-  },
-  "pipeline_explorer.approved.table_empty": {
-    "type": "text",
-    "maxLength": 50
-  },
-  "pipeline_explorer.approved.table_title": {
-    "type": "text",
-    "maxLength": 50
-  },
-  "pipeline_explorer.approved.who_prequal_description": {
-    "type": "text",
-    "maxLength": 250
-  },
-  "pipeline_explorer.approved.who_prequal_title": {
-    "type": "text",
-    "maxLength": 50
-  },
-  "pipeline_explorer.candidates.table_description": {
-    "type": "text",
-    "maxLength": 250
-  },
-  "pipeline_explorer.candidates.table_empty": {
-    "type": "text",
-    "maxLength": 50
-  },
-  "pipeline_explorer.candidates.table_title": {
-    "type": "text",
-    "maxLength": 50
-  },
-  "pipeline_explorer.kpi.approved_emerging": {
-    "type": "text",
-    "maxLength": 150
-  },
-  "pipeline_explorer.kpi.approved_neglected_diseases": {
-    "type": "text",
-    "maxLength": 150
-  },
-  "pipeline_explorer.kpi.approved_total": {
-    "type": "text",
-    "maxLength": 150
-  },
-  "pipeline_explorer.kpi.approved_womens_health": {
-    "type": "text",
-    "maxLength": 150
-  },
-  "pipeline_explorer.kpi.candidates_emerging": {
-    "type": "text",
-    "maxLength": 150
-  },
-  "pipeline_explorer.kpi.candidates_neglected_diseases": {
-    "type": "text",
-    "maxLength": 150
-  },
-  "pipeline_explorer.kpi.candidates_total": {
-    "type": "text",
-    "maxLength": 150
-  },
-  "pipeline_explorer.kpi.candidates_womens_health": {
-    "type": "text",
-    "maxLength": 150
-  },
-  "pipeline_explorer.kpi.trials_emerging": {
-    "type": "text",
-    "maxLength": 150
-  },
-  "pipeline_explorer.kpi.trials_neglected_diseases": {
-    "type": "text",
-    "maxLength": 150
-  },
-  "pipeline_explorer.kpi.trials_total": {
-    "type": "text",
-    "maxLength": 150
-  },
-  "pipeline_explorer.kpi.trials_womens_health": {
-    "type": "text",
-    "maxLength": 150
-  },
-  "pipeline_explorer.page.table_builder_intro": {
-    "type": "text",
-    "maxLength": 700
+    "maxLength": 30
   },
   "pipeline_explorer.page.title": {
     "type": "text",
     "maxLength": 50
   },
-  "pipeline_explorer.page.visual_insights_intro": {
-    "type": "markdown",
-    "maxLength": 800
-  },
-  "pipeline_explorer.tabs.approved_products": {
+  "pipeline_explorer.table_builder.candidates_approved.description": {
     "type": "text",
-    "maxLength": 50
+    "maxLength": 350
   },
-  "pipeline_explorer.tabs.candidates": {
-    "type": "text",
-    "maxLength": 50
-  },
-  "pipeline_explorer.tabs.clinical_trials": {
-    "type": "text",
-    "maxLength": 50
-  },
-  "pipeline_explorer.tabs.technology_types": {
-    "type": "text",
-    "maxLength": 50
-  },
-  "pipeline_explorer.tech.back_to_vcp": {
-    "type": "text",
-    "maxLength": 50
-  },
-  "pipeline_explorer.tech.candidates_empty": {
-    "type": "text",
-    "maxLength": 150
-  },
-  "pipeline_explorer.tech.candidates_empty_row_description": {
+  "pipeline_explorer.table_builder.candidates_approved.title": {
     "type": "text",
     "maxLength": 80
   },
-  "pipeline_explorer.tech.candidates_empty_row_title": {
-    "type": "text",
-    "maxLength": 80
-  },
-  "pipeline_explorer.tech.candidates_title": {
-    "type": "text",
-    "maxLength": 50
-  },
-  "pipeline_explorer.tech.chart_description": {
-    "type": "text",
-    "maxLength": 100
-  },
-  "pipeline_explorer.tech.coverage_description": {
-    "type": "text",
-    "maxLength": 200
-  },
-  "pipeline_explorer.tech.coverage_empty": {
-    "type": "text",
-    "maxLength": 150
-  },
-  "pipeline_explorer.tech.coverage_title": {
-    "type": "text",
-    "maxLength": 50
-  },
-  "pipeline_explorer.tech.section_description": {
-    "type": "text",
-    "maxLength": 200
-  },
-  "pipeline_explorer.tech.section_title": {
-    "type": "text",
-    "maxLength": 80
-  },
-  "pipeline_explorer.tech.vcp_select_prompt": {
-    "type": "text",
-    "maxLength": 80
-  },
-  "pipeline_explorer.top5.approved_disease": {
-    "type": "text",
-    "maxLength": 80
-  },
-  "pipeline_explorer.top5.approved_disease_description": {
-    "type": "text",
-    "maxLength": 200
-  },
-  "pipeline_explorer.top5.approved_product": {
-    "type": "text",
-    "maxLength": 80
-  },
-  "pipeline_explorer.top5.approved_product_description": {
-    "type": "text",
-    "maxLength": 150
-  },
-  "pipeline_explorer.top5.candidates_disease": {
-    "type": "text",
-    "maxLength": 80
-  },
-  "pipeline_explorer.top5.candidates_disease_description": {
-    "type": "text",
-    "maxLength": 200
-  },
-  "pipeline_explorer.top5.candidates_product": {
-    "type": "text",
-    "maxLength": 80
-  },
-  "pipeline_explorer.top5.candidates_product_description": {
-    "type": "text",
-    "maxLength": 150
-  },
-  "pipeline_explorer.top5.trials_disease": {
-    "type": "text",
-    "maxLength": 80
-  },
-  "pipeline_explorer.top5.trials_disease_description": {
-    "type": "text",
-    "maxLength": 200
-  },
-  "pipeline_explorer.top5.trials_product": {
-    "type": "text",
-    "maxLength": 80
-  },
-  "pipeline_explorer.top5.trials_product_description": {
-    "type": "text",
-    "maxLength": 150
-  },
-  "pipeline_explorer.trials.age_groups_description": {
-    "type": "text",
-    "maxLength": 200
-  },
-  "pipeline_explorer.trials.age_groups_title": {
-    "type": "text",
-    "maxLength": 50
-  },
-  "pipeline_explorer.trials.geo_description": {
+  "pipeline_explorer.table_builder.clinical_trials.description": {
     "type": "text",
     "maxLength": 250
   },
-  "pipeline_explorer.trials.geo_source": {
+  "pipeline_explorer.table_builder.clinical_trials.title": {
     "type": "text",
     "maxLength": 80
   },
-  "pipeline_explorer.trials.geo_title": {
+  "pipeline_explorer.table_builder.download_csv": {
     "type": "text",
-    "maxLength": 80
+    "maxLength": 30
   },
-  "pipeline_explorer.trials.intro": {
+  "pipeline_explorer.table_builder.downloading": {
     "type": "text",
-    "maxLength": 200
+    "maxLength": 30
   },
-  "pipeline_explorer.trials.table_description": {
-    "type": "text",
-    "maxLength": 300
-  },
-  "pipeline_explorer.trials.table_empty": {
+  "pipeline_explorer.table_builder.empty_state.no_data_title": {
     "type": "text",
     "maxLength": 50
   },
-  "pipeline_explorer.trials.table_title": {
-    "type": "text",
-    "maxLength": 50
-  },
-  "pipeline_explorer.trials.trial_status_description": {
+  "pipeline_explorer.table_builder.empty_state.no_results_description": {
     "type": "text",
     "maxLength": 100
   },
-  "pipeline_explorer.trials.trial_status_title": {
+  "pipeline_explorer.table_builder.empty_state.no_results_title": {
+    "type": "text",
+    "maxLength": 50
+  },
+  "pipeline_explorer.table_builder.intro": {
+    "type": "text",
+    "maxLength": 700
+  },
+  "pipeline_explorer.table_builder.rd_only.description": {
+    "type": "text",
+    "maxLength": 300
+  },
+  "pipeline_explorer.table_builder.rd_only.title": {
+    "type": "text",
+    "maxLength": 50
+  },
+  "pipeline_explorer.table_builder.rd_priorities.description": {
+    "type": "text",
+    "maxLength": 300
+  },
+  "pipeline_explorer.table_builder.rd_priorities.title": {
+    "type": "text",
+    "maxLength": 80
+  },
+  "pipeline_explorer.table_builder.reset_filters": {
+    "type": "text",
+    "maxLength": 30
+  },
+  "pipeline_explorer.table_builder.tabs.candidates_approved": {
+    "type": "text",
+    "maxLength": 80
+  },
+  "pipeline_explorer.table_builder.tabs.clinical_trials": {
+    "type": "text",
+    "maxLength": 80
+  },
+  "pipeline_explorer.table_builder.tabs.rd_only": {
+    "type": "text",
+    "maxLength": 50
+  },
+  "pipeline_explorer.table_builder.tabs.rd_priorities": {
+    "type": "text",
+    "maxLength": 80
+  },
+  "pipeline_explorer.visual_insights.approved.approval_status.description": {
+    "type": "text",
+    "maxLength": 200
+  },
+  "pipeline_explorer.visual_insights.approved.approval_status.title": {
+    "type": "text",
+    "maxLength": 50
+  },
+  "pipeline_explorer.visual_insights.approved.approval_status.y_axis": {
+    "type": "text",
+    "maxLength": 60
+  },
+  "pipeline_explorer.visual_insights.approved.approving_auth.description": {
+    "type": "text",
+    "maxLength": 200
+  },
+  "pipeline_explorer.visual_insights.approved.approving_auth.title": {
+    "type": "text",
+    "maxLength": 50
+  },
+  "pipeline_explorer.visual_insights.approved.approving_auth.x_axis": {
+    "type": "text",
+    "maxLength": 60
+  },
+  "pipeline_explorer.visual_insights.approved.approving_auth.y_axis": {
+    "type": "text",
+    "maxLength": 60
+  },
+  "pipeline_explorer.visual_insights.approved.intro": {
+    "type": "text",
+    "maxLength": 200
+  },
+  "pipeline_explorer.visual_insights.approved.kpi.emerging": {
+    "type": "text",
+    "maxLength": 150
+  },
+  "pipeline_explorer.visual_insights.approved.kpi.neglected_diseases": {
+    "type": "text",
+    "maxLength": 150
+  },
+  "pipeline_explorer.visual_insights.approved.kpi.total": {
+    "type": "text",
+    "maxLength": 150
+  },
+  "pipeline_explorer.visual_insights.approved.kpi.womens_health": {
+    "type": "text",
+    "maxLength": 150
+  },
+  "pipeline_explorer.visual_insights.approved.table.description": {
+    "type": "text",
+    "maxLength": 250
+  },
+  "pipeline_explorer.visual_insights.approved.table.empty": {
+    "type": "text",
+    "maxLength": 50
+  },
+  "pipeline_explorer.visual_insights.approved.table.title": {
+    "type": "text",
+    "maxLength": 50
+  },
+  "pipeline_explorer.visual_insights.approved.top5_disease.description": {
+    "type": "text",
+    "maxLength": 200
+  },
+  "pipeline_explorer.visual_insights.approved.top5_disease.title": {
+    "type": "text",
+    "maxLength": 80
+  },
+  "pipeline_explorer.visual_insights.approved.top5_disease.x_axis": {
+    "type": "text",
+    "maxLength": 60
+  },
+  "pipeline_explorer.visual_insights.approved.top5_product.description": {
+    "type": "text",
+    "maxLength": 150
+  },
+  "pipeline_explorer.visual_insights.approved.top5_product.title": {
+    "type": "text",
+    "maxLength": 80
+  },
+  "pipeline_explorer.visual_insights.approved.top5_product.x_axis": {
+    "type": "text",
+    "maxLength": 60
+  },
+  "pipeline_explorer.visual_insights.approved.who_prequal.description": {
+    "type": "text",
+    "maxLength": 250
+  },
+  "pipeline_explorer.visual_insights.approved.who_prequal.title": {
+    "type": "text",
+    "maxLength": 50
+  },
+  "pipeline_explorer.visual_insights.candidates.kpi.emerging": {
+    "type": "text",
+    "maxLength": 150
+  },
+  "pipeline_explorer.visual_insights.candidates.kpi.neglected_diseases": {
+    "type": "text",
+    "maxLength": 150
+  },
+  "pipeline_explorer.visual_insights.candidates.kpi.total": {
+    "type": "text",
+    "maxLength": 150
+  },
+  "pipeline_explorer.visual_insights.candidates.kpi.womens_health": {
+    "type": "text",
+    "maxLength": 150
+  },
+  "pipeline_explorer.visual_insights.candidates.table.description": {
+    "type": "text",
+    "maxLength": 250
+  },
+  "pipeline_explorer.visual_insights.candidates.table.empty": {
+    "type": "text",
+    "maxLength": 50
+  },
+  "pipeline_explorer.visual_insights.candidates.table.title": {
+    "type": "text",
+    "maxLength": 50
+  },
+  "pipeline_explorer.visual_insights.candidates.top5_disease.description": {
+    "type": "text",
+    "maxLength": 200
+  },
+  "pipeline_explorer.visual_insights.candidates.top5_disease.title": {
+    "type": "text",
+    "maxLength": 80
+  },
+  "pipeline_explorer.visual_insights.candidates.top5_disease.x_axis": {
+    "type": "text",
+    "maxLength": 60
+  },
+  "pipeline_explorer.visual_insights.candidates.top5_product.description": {
+    "type": "text",
+    "maxLength": 150
+  },
+  "pipeline_explorer.visual_insights.candidates.top5_product.title": {
+    "type": "text",
+    "maxLength": 80
+  },
+  "pipeline_explorer.visual_insights.candidates.top5_product.x_axis": {
+    "type": "text",
+    "maxLength": 60
+  },
+  "pipeline_explorer.visual_insights.intro": {
+    "type": "markdown",
+    "maxLength": 800
+  },
+  "pipeline_explorer.visual_insights.tabs.approved_products": {
+    "type": "text",
+    "maxLength": 50
+  },
+  "pipeline_explorer.visual_insights.tabs.candidates": {
+    "type": "text",
+    "maxLength": 50
+  },
+  "pipeline_explorer.visual_insights.tabs.clinical_trials": {
+    "type": "text",
+    "maxLength": 50
+  },
+  "pipeline_explorer.visual_insights.tabs.technology_types": {
+    "type": "text",
+    "maxLength": 50
+  },
+  "pipeline_explorer.visual_insights.tech.back_to_vcp": {
+    "type": "text",
+    "maxLength": 50
+  },
+  "pipeline_explorer.visual_insights.tech.candidates.empty": {
+    "type": "text",
+    "maxLength": 150
+  },
+  "pipeline_explorer.visual_insights.tech.candidates.empty_row.description": {
+    "type": "text",
+    "maxLength": 80
+  },
+  "pipeline_explorer.visual_insights.tech.candidates.empty_row.title": {
+    "type": "text",
+    "maxLength": 80
+  },
+  "pipeline_explorer.visual_insights.tech.candidates.title": {
+    "type": "text",
+    "maxLength": 50
+  },
+  "pipeline_explorer.visual_insights.tech.chart.description": {
+    "type": "text",
+    "maxLength": 100
+  },
+  "pipeline_explorer.visual_insights.tech.chart.x_axis": {
+    "type": "text",
+    "maxLength": 60
+  },
+  "pipeline_explorer.visual_insights.tech.coverage.description": {
+    "type": "text",
+    "maxLength": 200
+  },
+  "pipeline_explorer.visual_insights.tech.coverage.empty": {
+    "type": "text",
+    "maxLength": 150
+  },
+  "pipeline_explorer.visual_insights.tech.coverage.title": {
+    "type": "text",
+    "maxLength": 50
+  },
+  "pipeline_explorer.visual_insights.tech.section.description": {
+    "type": "text",
+    "maxLength": 200
+  },
+  "pipeline_explorer.visual_insights.tech.section.title": {
+    "type": "text",
+    "maxLength": 80
+  },
+  "pipeline_explorer.visual_insights.tech.vcp_select_prompt": {
+    "type": "text",
+    "maxLength": 80
+  },
+  "pipeline_explorer.visual_insights.trials.age_groups.description": {
+    "type": "text",
+    "maxLength": 200
+  },
+  "pipeline_explorer.visual_insights.trials.age_groups.title": {
+    "type": "text",
+    "maxLength": 50
+  },
+  "pipeline_explorer.visual_insights.trials.geo.description": {
+    "type": "text",
+    "maxLength": 250
+  },
+  "pipeline_explorer.visual_insights.trials.geo.source": {
+    "type": "text",
+    "maxLength": 80
+  },
+  "pipeline_explorer.visual_insights.trials.geo.title": {
+    "type": "text",
+    "maxLength": 80
+  },
+  "pipeline_explorer.visual_insights.trials.intro": {
+    "type": "text",
+    "maxLength": 200
+  },
+  "pipeline_explorer.visual_insights.trials.kpi.emerging": {
+    "type": "text",
+    "maxLength": 150
+  },
+  "pipeline_explorer.visual_insights.trials.kpi.neglected_diseases": {
+    "type": "text",
+    "maxLength": 150
+  },
+  "pipeline_explorer.visual_insights.trials.kpi.total": {
+    "type": "text",
+    "maxLength": 150
+  },
+  "pipeline_explorer.visual_insights.trials.kpi.womens_health": {
+    "type": "text",
+    "maxLength": 150
+  },
+  "pipeline_explorer.visual_insights.trials.table.description": {
+    "type": "text",
+    "maxLength": 300
+  },
+  "pipeline_explorer.visual_insights.trials.table.empty": {
+    "type": "text",
+    "maxLength": 50
+  },
+  "pipeline_explorer.visual_insights.trials.table.title": {
+    "type": "text",
+    "maxLength": 50
+  },
+  "pipeline_explorer.visual_insights.trials.top5_disease.description": {
+    "type": "text",
+    "maxLength": 200
+  },
+  "pipeline_explorer.visual_insights.trials.top5_disease.title": {
+    "type": "text",
+    "maxLength": 80
+  },
+  "pipeline_explorer.visual_insights.trials.top5_disease.x_axis": {
+    "type": "text",
+    "maxLength": 60
+  },
+  "pipeline_explorer.visual_insights.trials.top5_product.description": {
+    "type": "text",
+    "maxLength": 150
+  },
+  "pipeline_explorer.visual_insights.trials.top5_product.title": {
+    "type": "text",
+    "maxLength": 80
+  },
+  "pipeline_explorer.visual_insights.trials.top5_product.x_axis": {
+    "type": "text",
+    "maxLength": 60
+  },
+  "pipeline_explorer.visual_insights.trials.trial_status.description": {
+    "type": "text",
+    "maxLength": 100
+  },
+  "pipeline_explorer.visual_insights.trials.trial_status.title": {
     "type": "text",
     "maxLength": 50
   },
@@ -967,39 +1091,39 @@
     "type": "text",
     "maxLength": 50
   },
-  "pipeline_overview.kpi.approved_description": {
+  "pipeline_overview.kpi.approved.description": {
     "type": "text",
     "maxLength": 50
   },
-  "pipeline_overview.kpi.approved_title": {
+  "pipeline_overview.kpi.approved.title": {
     "type": "text",
     "maxLength": 80
   },
-  "pipeline_overview.kpi.approved_tooltip": {
+  "pipeline_overview.kpi.approved.tooltip": {
     "type": "text",
     "maxLength": 150
   },
-  "pipeline_overview.kpi.candidates_description": {
+  "pipeline_overview.kpi.candidates.description": {
     "type": "text",
     "maxLength": 50
   },
-  "pipeline_overview.kpi.candidates_title": {
+  "pipeline_overview.kpi.candidates.title": {
     "type": "text",
     "maxLength": 80
   },
-  "pipeline_overview.kpi.candidates_tooltip": {
+  "pipeline_overview.kpi.candidates.tooltip": {
     "type": "text",
     "maxLength": 150
   },
-  "pipeline_overview.kpi.trials_description": {
+  "pipeline_overview.kpi.trials.description": {
     "type": "text",
     "maxLength": 50
   },
-  "pipeline_overview.kpi.trials_title": {
+  "pipeline_overview.kpi.trials.title": {
     "type": "text",
     "maxLength": 80
   },
-  "pipeline_overview.kpi.trials_tooltip": {
+  "pipeline_overview.kpi.trials.tooltip": {
     "type": "text",
     "maxLength": 150
   },
@@ -1024,22 +1148,6 @@
     "maxLength": 50
   },
   "pipeline_overview.product_types.title": {
-    "type": "text",
-    "maxLength": 50
-  },
-  "pipeline_trends.axis.x": {
-    "type": "text",
-    "maxLength": 80
-  },
-  "pipeline_trends.axis.x_rd_stage": {
-    "type": "text",
-    "maxLength": 50
-  },
-  "pipeline_trends.axis.y": {
-    "type": "text",
-    "maxLength": 50
-  },
-  "pipeline_trends.axis.y_portfolio": {
     "type": "text",
     "maxLength": 50
   },
@@ -1095,6 +1203,14 @@
     "type": "text",
     "maxLength": 50
   },
+  "pipeline_trends.section.chart.x_axis": {
+    "type": "text",
+    "maxLength": 60
+  },
+  "pipeline_trends.section.chart.y_axis": {
+    "type": "text",
+    "maxLength": 60
+  },
   "pipeline_trends.section.description": {
     "type": "text",
     "maxLength": 300
@@ -1107,29 +1223,29 @@
     "type": "text",
     "maxLength": 250
   },
+  "pipeline_trends.temporal.compare.aggregated_trends.empty": {
+    "type": "text",
+    "maxLength": 100
+  },
   "pipeline_trends.temporal.compare.aggregated_trends.title": {
     "type": "text",
     "maxLength": 80
+  },
+  "pipeline_trends.temporal.compare.aggregated_trends.y_axis": {
+    "type": "text",
+    "maxLength": 60
   },
   "pipeline_trends.temporal.compare.comparison_table.description": {
     "type": "text",
     "maxLength": 250
   },
-  "pipeline_trends.temporal.compare.empty_portfolios_chart": {
+  "pipeline_trends.temporal.compare.comparison_table.empty_description": {
     "type": "text",
     "maxLength": 100
   },
-  "pipeline_trends.temporal.compare.empty_portfolios_table_description": {
-    "type": "text",
-    "maxLength": 100
-  },
-  "pipeline_trends.temporal.compare.empty_portfolios_table_title": {
+  "pipeline_trends.temporal.compare.comparison_table.empty_title": {
     "type": "text",
     "maxLength": 50
-  },
-  "pipeline_trends.temporal.compare.empty_portfolios_trends": {
-    "type": "text",
-    "maxLength": 100
   },
   "pipeline_trends.temporal.compare.intro": {
     "type": "text",
@@ -1139,9 +1255,21 @@
     "type": "text",
     "maxLength": 450
   },
+  "pipeline_trends.temporal.compare.portfolio_comparison.empty": {
+    "type": "text",
+    "maxLength": 100
+  },
   "pipeline_trends.temporal.compare.portfolio_comparison.title": {
     "type": "text",
     "maxLength": 80
+  },
+  "pipeline_trends.temporal.compare.portfolio_comparison.x_axis": {
+    "type": "text",
+    "maxLength": 60
+  },
+  "pipeline_trends.temporal.compare.portfolio_comparison.y_axis": {
+    "type": "text",
+    "maxLength": 60
   },
   "pipeline_trends.temporal.section.description": {
     "type": "text",
@@ -1158,6 +1286,14 @@
   "pipeline_trends.temporal.single.aggregated_stages.title": {
     "type": "text",
     "maxLength": 80
+  },
+  "pipeline_trends.temporal.single.aggregated_stages.x_axis": {
+    "type": "text",
+    "maxLength": 60
+  },
+  "pipeline_trends.temporal.single.aggregated_stages.y_axis": {
+    "type": "text",
+    "maxLength": 60
   },
   "pipeline_trends.temporal.single.aggregated_stages_table.description": {
     "type": "text",
@@ -1183,103 +1319,55 @@
     "type": "text",
     "maxLength": 80
   },
-  "pipeline_trends.temporal.tab.compare": {
+  "pipeline_trends.temporal.single.granular_stages.x_axis": {
     "type": "text",
     "maxLength": 60
   },
-  "pipeline_trends.temporal.tab.single": {
+  "pipeline_trends.temporal.single.granular_stages.y_axis": {
     "type": "text",
     "maxLength": 60
   },
-  "table_builder.candidates_approved.description": {
+  "pipeline_trends.temporal.tabs.compare": {
     "type": "text",
-    "maxLength": 350
+    "maxLength": 60
   },
-  "table_builder.candidates_approved.title": {
+  "pipeline_trends.temporal.tabs.single": {
     "type": "text",
-    "maxLength": 80
-  },
-  "table_builder.clinical_trials.description": {
-    "type": "text",
-    "maxLength": 250
-  },
-  "table_builder.clinical_trials.title": {
-    "type": "text",
-    "maxLength": 80
-  },
-  "table_builder.download_csv": {
-    "type": "text",
-    "maxLength": 30
-  },
-  "table_builder.downloading": {
-    "type": "text",
-    "maxLength": 30
-  },
-  "table_builder.empty_state.no_data_title": {
-    "type": "text",
-    "maxLength": 50
-  },
-  "table_builder.empty_state.no_results_description": {
-    "type": "text",
-    "maxLength": 100
-  },
-  "table_builder.empty_state.no_results_title": {
-    "type": "text",
-    "maxLength": 50
-  },
-  "table_builder.rd_only.description": {
-    "type": "text",
-    "maxLength": 300
-  },
-  "table_builder.rd_only.title": {
-    "type": "text",
-    "maxLength": 50
-  },
-  "table_builder.rd_priorities.description": {
-    "type": "text",
-    "maxLength": 300
-  },
-  "table_builder.rd_priorities.title": {
-    "type": "text",
-    "maxLength": 80
-  },
-  "table_builder.reset_filters": {
-    "type": "text",
-    "maxLength": 30
-  },
-  "table_builder.tabs.candidates_approved": {
-    "type": "text",
-    "maxLength": 80
-  },
-  "table_builder.tabs.clinical_trials": {
-    "type": "text",
-    "maxLength": 80
-  },
-  "table_builder.tabs.rd_only": {
-    "type": "text",
-    "maxLength": 50
-  },
-  "table_builder.tabs.rd_priorities": {
-    "type": "text",
-    "maxLength": 80
-  },
-  "who_priority.individual.amount_axis": {
-    "type": "text",
-    "maxLength": 50
+    "maxLength": 60
   },
   "who_priority.individual.apply": {
     "type": "text",
     "maxLength": 30
   },
-  "who_priority.individual.candidates_count_label": {
+  "who_priority.individual.candidates_table.count_label": {
     "type": "text",
     "maxLength": 30
   },
-  "who_priority.individual.candidates_description": {
+  "who_priority.individual.candidates_table.description": {
     "type": "text",
     "maxLength": 400
   },
-  "who_priority.individual.candidates_title": {
+  "who_priority.individual.candidates_table.download_csv": {
+    "type": "text",
+    "maxLength": 30
+  },
+  "who_priority.individual.candidates_table.downloading": {
+    "type": "text",
+    "maxLength": 30
+  },
+  "who_priority.individual.candidates_table.empty_filtered_description": {
+    "type": "text",
+    "maxLength": 100
+  },
+  "who_priority.individual.candidates_table.empty_filtered_title": {
+    "type": "text",
+    "maxLength": 50
+  },
+  "who_priority.individual.candidates_table.empty_no_linked": {
+    "type": "text",
+    "maxLength": 80
+  },
+  "who_priority.individual.candidates_table.title": {
     "type": "text",
     "maxLength": 80
   },
@@ -1290,14 +1378,6 @@
   "who_priority.individual.description": {
     "type": "text",
     "maxLength": 400
-  },
-  "who_priority.individual.download_csv": {
-    "type": "text",
-    "maxLength": 30
-  },
-  "who_priority.individual.downloading": {
-    "type": "text",
-    "maxLength": 30
   },
   "who_priority.individual.dropdown_label": {
     "type": "text",
@@ -1323,11 +1403,15 @@
     "type": "text",
     "maxLength": 80
   },
-  "who_priority.individual.pipeline_chart_description": {
+  "who_priority.individual.pipeline_chart.description": {
     "type": "text",
     "maxLength": 300
   },
-  "who_priority.individual.pipeline_chart_title": {
+  "who_priority.individual.pipeline_chart.title": {
+    "type": "text",
+    "maxLength": 50
+  },
+  "who_priority.individual.pipeline_chart.x_axis": {
     "type": "text",
     "maxLength": 50
   },
@@ -1335,21 +1419,9 @@
     "type": "text",
     "maxLength": 60
   },
-  "who_priority.individual.stat_candidates_title": {
+  "who_priority.individual.stat_candidates.title": {
     "type": "text",
     "maxLength": 100
-  },
-  "who_priority.individual.table_empty_filtered_description": {
-    "type": "text",
-    "maxLength": 100
-  },
-  "who_priority.individual.table_empty_filtered_title": {
-    "type": "text",
-    "maxLength": 50
-  },
-  "who_priority.individual.table_empty_no_linked": {
-    "type": "text",
-    "maxLength": 80
   },
   "who_priority.individual.title": {
     "type": "text",
@@ -1359,19 +1431,19 @@
     "type": "text",
     "maxLength": 350
   },
-  "who_priority.overview.loading_chart": {
+  "who_priority.overview.loading": {
     "type": "text",
     "maxLength": 50
   },
-  "who_priority.overview.product_types_description": {
+  "who_priority.overview.product_types.description": {
     "type": "text",
     "maxLength": 200
   },
-  "who_priority.overview.product_types_title": {
+  "who_priority.overview.product_types.title": {
     "type": "text",
     "maxLength": 50
   },
-  "who_priority.overview.share_with_dedicated": {
+  "who_priority.overview.share_card.description": {
     "type": "text",
     "maxLength": 80
   },
@@ -1379,11 +1451,11 @@
     "type": "text",
     "maxLength": 80
   },
-  "who_priority.overview.women_children_description": {
+  "who_priority.overview.women_children.description": {
     "type": "text",
     "maxLength": 250
   },
-  "who_priority.overview.women_children_title": {
+  "who_priority.overview.women_children.title": {
     "type": "text",
     "maxLength": 100
   },
@@ -1411,19 +1483,19 @@
     "type": "text",
     "maxLength": 30
   },
-  "who_priority.panel.section_efficacy": {
+  "who_priority.panel.sections.efficacy": {
     "type": "text",
     "maxLength": 30
   },
-  "who_priority.panel.section_intended_use": {
+  "who_priority.panel.sections.intended_use": {
     "type": "text",
     "maxLength": 30
   },
-  "who_priority.panel.section_safety": {
+  "who_priority.panel.sections.safety": {
     "type": "text",
     "maxLength": 30
   },
-  "who_priority.panel.section_target_population": {
+  "who_priority.panel.sections.target_population": {
     "type": "text",
     "maxLength": 50
   }
