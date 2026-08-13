@@ -1,1 +1,0 @@
-Click on explore in any table, to activate a slide-in panel that will show the in-depth information of that row in the table.

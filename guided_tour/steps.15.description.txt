@@ -1,1 +1,0 @@
-Filter the disease on global health area, disease or product type to get an understanding of the WHO priorities that are developed for this selection.
