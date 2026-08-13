@@ -1,3 +1,1 @@
-Decide how you want to explore the data.
-✔ Compare single portfolio over time: Track how a single portfolio has changed across IGH’s annual pipeline snapshots.
-✔ Compare different portfolios: Place up to four portfolios side by side to see how they differ at a single point in time.
+Click Explore for key information on the priority, including intended use, target population, efficacy and safety.

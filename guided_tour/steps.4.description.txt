@@ -1,1 +1,1 @@
-Every filter that is activated remains active throughout the portal. To deactivate a filter you can always see which filters are active in this filter screen.
+Any filter you set here is applied across the whole portal, not only this page. Your selection stays with you as you move between pages.

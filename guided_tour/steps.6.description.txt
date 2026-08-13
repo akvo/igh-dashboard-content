@@ -1,1 +1,3 @@
-Save a snapshot of this chart as an image, or download the underlying data to explore in your own tools.
+Visual insights — discover trends and patterns through interactive charts, maps and diagrams.
+
+Table builder — filter and arrange columns to build a custom table, and download it as .csv.

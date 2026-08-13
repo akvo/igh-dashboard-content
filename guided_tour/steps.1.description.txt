@@ -1,1 +1,11 @@
-Use the side menu to jump between Home, Pipeline Overview, Pipeline Explorer, Pipeline Trends and WHO Priority Alignment.
+An at-a-glance view of health products approved or in development across three global health areas: neglected diseases, emerging infectious diseases and women’s health.
+
+**Home** — a snapshot of research activity, where trials and developers are located, how the pipeline is spread across development stages, and how progress has shifted over time.
+
+**Pipeline Overview** — filter and explore the data by global health area, disease, product type and R&D stage.
+
+**Pipeline Explorer** — explore candidates, approved products, clinical trials and technology types, as visuals or as a custom table.
+
+**Pipeline Trends** — see how the pipeline evolves over time and compare portfolios.
+
+**WHO Priority alignment** — map the pipeline against the World Health Organization’s product-development priorities.

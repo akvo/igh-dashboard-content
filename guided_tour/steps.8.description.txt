@@ -1,1 +1,1 @@
-Tick or untick the checkboxes in the legend to show or hide specific categories within the charts.
+Define a selection of diseases and product types, then see how that portfolio has evolved over time.

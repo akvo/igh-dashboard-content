@@ -1,1 +1,1 @@
-Use these filters to focus the data across every chart and map on this page at once. Any selection you make will automatically update all visuals to reflect your chosen scope.
+Switch between tabs to explore active candidates, approved products, clinical trials and the technology types driving development across the selected scope.

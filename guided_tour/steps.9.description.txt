@@ -1,3 +1,1 @@
-Visual insights: discover trends and patterns through interactive charts, maps and diagrams. A visual deep dive into the pipeline data.
-
-Table builder: filter and slice the data your way. Build a custom table and download it as .csv to use in your own analysis.
+Compare a single portfolio across multiple years, or compare up to four portfolios against each other within a single year.
