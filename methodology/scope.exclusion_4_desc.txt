@@ -1,0 +1,1 @@
+Placebo and standard-of-care arms are not recorded as separate entries.

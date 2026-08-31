@@ -1,0 +1,1 @@
+All corrections are assessed against the same scope rules and review process as other pipeline records. If a submission falls outside the defined scope, it will not be added to the pipeline.

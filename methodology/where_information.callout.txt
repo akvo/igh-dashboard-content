@@ -1,0 +1,1 @@
+Not every source can originate a record. Some are consulted only to verify and enrich what another source found, adding mechanism of action, molecular target or route of administration. They never introduce a candidate on their own.

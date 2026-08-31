@@ -1,0 +1,1 @@
+**HIV/AIDS** — drugs only where they are new drugs or reformulations for low- and middle-income country use: paediatric or slow-release formulations, fixed-dose combinations, low-dose formulations for prophylaxis, and long-acting injectables. Biologics only where developed for low- and middle-income country needs or registration there.

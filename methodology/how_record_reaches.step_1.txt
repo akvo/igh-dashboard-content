@@ -1,0 +1,1 @@
+Scope is fixed — diseases, product areas, partial-inclusion criteria and time period are set before searching begins.

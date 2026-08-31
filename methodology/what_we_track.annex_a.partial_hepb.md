@@ -1,0 +1,1 @@
+**Hepatitis B** — drugs only where they are new drugs or reformulations for low- and middle-income country use, such as curative therapies, products preventing mother-to-child transmission, or long-acting formulations, or where they support registration there. Biologics on the same basis, and must cover the hepatitis B genotypes prevalent in low- and middle-income countries.

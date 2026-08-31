@@ -1,0 +1,1 @@
+A missing candidate or product does not necessarily mean there is no activity in that area. It may be outside the pipeline’s defined scope, not yet publicly disclosed, or not captured in the sources reviewed. Similarly, an area that is out of scope is not being judged as unimportant; it is simply not part of what this pipeline tracks.

@@ -1,0 +1,1 @@
+Sources are searched and relevant records are extracted, captured as they appear in each source.

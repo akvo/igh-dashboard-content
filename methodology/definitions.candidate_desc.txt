@@ -1,0 +1,1 @@
+A candidate is still in development. A product has reached approval. Both sit in the same pipeline; what separates them is the stage reached, not the kind of thing being developed.

@@ -1,0 +1,1 @@
+**Leptospirosis diagnostics** — only tests suited to resource-limited settings: a test must detect the disease in its septicaemic or early acute phase, be accurate and easy to interpret with results within one to two hours, and be cheap, stable and usable without specialist equipment or highly trained staff.

@@ -1,0 +1,1 @@
+Impact Global Health uses artificial intelligence to support the pipeline review process. Its role is to help retrieve records, extract structured information, match candidates across sources, add technical details and check consistency.

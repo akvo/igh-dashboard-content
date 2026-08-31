@@ -1,0 +1,1 @@
+Records are checked for duplicates — the same candidate often appears in more than one source, under more than one name.

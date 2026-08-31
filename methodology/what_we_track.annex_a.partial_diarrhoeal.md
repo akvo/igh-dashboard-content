@@ -1,0 +1,1 @@
+**Cholera, Shigella, cryptosporidiosis and multiple diarrhoeal diseases** — drugs only where they act on the pathogen; supportive therapies such as zinc, oral rehydration and nutritional supplements are excluded. Biologics only where developed for low- and middle-income country needs or registration there.

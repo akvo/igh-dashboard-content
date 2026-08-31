@@ -1,0 +1,1 @@
+Diseases tracked, and the product types tracked for each.

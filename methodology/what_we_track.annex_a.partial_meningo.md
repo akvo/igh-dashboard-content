@@ -1,0 +1,1 @@
+**Meningococcal vaccines** — only conjugate vaccines covering serogroup A, designed for infants under two years and intended to cost under one US dollar per dose, developed for or being registered in low- and middle-income countries.

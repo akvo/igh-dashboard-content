@@ -1,0 +1,1 @@
+Each record is classified by product name, target disease, product area, R&D stage and developer, and matched against existing pipeline records.
