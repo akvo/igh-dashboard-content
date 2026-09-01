@@ -1,0 +1,1 @@
+**Drugs, vaccines, biologics and diagnostics are tracked for every one of them.** Vector control products are tracked where applicable. Microbicides do not apply in this area, and no disease in it carries a partial inclusion.

@@ -1,1 +1,1 @@
-Every record is reviewed by a subject-matter reviewer, and independent quality control is carried out before it reaches the published pipeline.
+Every record is reviewed by a subject-matter reviewer, and independent quality control is carried out before the record reaches the published pipeline.

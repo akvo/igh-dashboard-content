@@ -1,0 +1,1 @@
+**Vector control products** divide into chemical products, biological products and reservoir-targeted vaccines. Which apply to a given pathogen depends on whether it is vector-borne and whether it has an animal reservoir. For pathogens that are not vector-borne, the category covers only veterinary vaccines developed specifically to prevent transmission from animals to people.

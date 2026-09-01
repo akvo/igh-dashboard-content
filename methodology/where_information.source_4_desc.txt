@@ -1,1 +1,1 @@
-Impact Global Health’s existing pipeline records are carried into each review so new evidence can be matched against records already held.
+Impact Global Health’s existing pipeline records are carried into each review so new evidence can be matched against records already held. They are a reference for matching, not a source of new candidates.

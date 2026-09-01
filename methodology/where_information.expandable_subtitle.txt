@@ -1,0 +1,1 @@
+Which targeted sources are used, and whether each can originate a record

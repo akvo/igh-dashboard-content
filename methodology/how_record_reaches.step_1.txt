@@ -1,1 +1,1 @@
-Scope is fixed — diseases, product areas, partial-inclusion criteria and time period are set before searching begins.
+Scope is fixed. This includes the diseases or conditions covered, the product areas tracked for each one, any partial-inclusion criteria, and the time period covered by the review. Setting this before searching begins helps ensure that records are assessed consistently, rather than decided case by case.

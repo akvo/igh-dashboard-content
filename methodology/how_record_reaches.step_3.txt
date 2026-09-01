@@ -1,1 +1,1 @@
-Records are checked for duplicates — the same candidate often appears in more than one source, under more than one name.
+Records are checked for duplicates. The same candidate often appears in more than one source, and under more than one name, so duplicates are identified before any further assessment.

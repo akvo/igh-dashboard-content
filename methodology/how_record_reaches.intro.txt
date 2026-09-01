@@ -1,1 +1,1 @@
-A record moves through a structured review process before it is added to the published pipeline. The order of the steps is deliberate; scope is set first, sources are searched, records are reviewed and checked, and only then are they reconciled into the database.
+A record moves through a structured review process before it is added to the published pipeline. The order of the steps is deliberate: scope is set first, sources are searched, records are reviewed and checked, and only then are they reconciled into the database.

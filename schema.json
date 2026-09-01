@@ -653,7 +653,7 @@
   },
   "methodology.corrections.p2": {
     "type": "text",
-    "maxLength": 300
+    "maxLength": 350
   },
   "methodology.corrections.p3": {
     "type": "text",
@@ -677,7 +677,7 @@
   },
   "methodology.definitions.approved_desc": {
     "type": "text",
-    "maxLength": 700
+    "maxLength": 1200
   },
   "methodology.definitions.approved_title": {
     "type": "text",
@@ -685,27 +685,55 @@
   },
   "methodology.definitions.candidate_desc": {
     "type": "text",
-    "maxLength": 250
+    "maxLength": 400
   },
   "methodology.definitions.candidate_title": {
     "type": "text",
     "maxLength": 40
   },
-  "methodology.definitions.product_types_p1": {
+  "methodology.definitions.product_areas_biologics": {
     "type": "text",
-    "maxLength": 500
+    "maxLength": 350
   },
-  "methodology.definitions.product_types_p2": {
+  "methodology.definitions.product_areas_devices": {
     "type": "text",
-    "maxLength": 400
+    "maxLength": 250
   },
-  "methodology.definitions.product_types_title": {
+  "methodology.definitions.product_areas_diagnostics": {
+    "type": "text",
+    "maxLength": 150
+  },
+  "methodology.definitions.product_areas_dietary_supplements": {
+    "type": "text",
+    "maxLength": 300
+  },
+  "methodology.definitions.product_areas_drugs": {
+    "type": "text",
+    "maxLength": 150
+  },
+  "methodology.definitions.product_areas_intro": {
+    "type": "text",
+    "maxLength": 60
+  },
+  "methodology.definitions.product_areas_microbicides": {
+    "type": "text",
+    "maxLength": 100
+  },
+  "methodology.definitions.product_areas_title": {
     "type": "text",
     "maxLength": 30
   },
+  "methodology.definitions.product_areas_vaccines": {
+    "type": "text",
+    "maxLength": 300
+  },
+  "methodology.definitions.product_areas_vector_control": {
+    "type": "text",
+    "maxLength": 200
+  },
   "methodology.definitions.rd_stage_desc": {
     "type": "text",
-    "maxLength": 800
+    "maxLength": 900
   },
   "methodology.definitions.rd_stage_title": {
     "type": "text",
@@ -717,7 +745,7 @@
   },
   "methodology.how_record_reaches.ai_p1": {
     "type": "text",
-    "maxLength": 300
+    "maxLength": 350
   },
   "methodology.how_record_reaches.ai_p2": {
     "type": "markdown",
@@ -733,27 +761,31 @@
   },
   "methodology.how_record_reaches.intro": {
     "type": "text",
-    "maxLength": 300
+    "maxLength": 350
+  },
+  "methodology.how_record_reaches.spine_note": {
+    "type": "text",
+    "maxLength": 200
   },
   "methodology.how_record_reaches.step_1": {
     "type": "text",
-    "maxLength": 200
+    "maxLength": 400
   },
   "methodology.how_record_reaches.step_2": {
     "type": "text",
-    "maxLength": 150
+    "maxLength": 300
   },
   "methodology.how_record_reaches.step_3": {
     "type": "text",
-    "maxLength": 200
+    "maxLength": 250
   },
   "methodology.how_record_reaches.step_4": {
     "type": "text",
-    "maxLength": 200
+    "maxLength": 400
   },
   "methodology.how_record_reaches.step_5": {
     "type": "text",
-    "maxLength": 120
+    "maxLength": 200
   },
   "methodology.how_record_reaches.step_6": {
     "type": "text",
@@ -764,12 +796,12 @@
     "maxLength": 60
   },
   "methodology.limitations.p1": {
-    "type": "markdown",
-    "maxLength": 350
+    "type": "text",
+    "maxLength": 300
   },
   "methodology.limitations.p2": {
-    "type": "markdown",
-    "maxLength": 350
+    "type": "text",
+    "maxLength": 300
   },
   "methodology.limitations.p3": {
     "type": "text",
@@ -785,11 +817,11 @@
   },
   "methodology.page.body_intro": {
     "type": "text",
-    "maxLength": 400
+    "maxLength": 600
   },
   "methodology.page.intro": {
     "type": "text",
-    "maxLength": 300
+    "maxLength": 200
   },
   "methodology.page.title": {
     "type": "text",
@@ -797,7 +829,7 @@
   },
   "methodology.scope.exclusion_1_desc": {
     "type": "text",
-    "maxLength": 200
+    "maxLength": 300
   },
   "methodology.scope.exclusion_1_title": {
     "type": "text",
@@ -805,7 +837,7 @@
   },
   "methodology.scope.exclusion_2_desc": {
     "type": "text",
-    "maxLength": 100
+    "maxLength": 200
   },
   "methodology.scope.exclusion_2_title": {
     "type": "text",
@@ -813,7 +845,7 @@
   },
   "methodology.scope.exclusion_3_desc": {
     "type": "text",
-    "maxLength": 120
+    "maxLength": 250
   },
   "methodology.scope.exclusion_3_title": {
     "type": "text",
@@ -821,7 +853,7 @@
   },
   "methodology.scope.exclusion_4_desc": {
     "type": "text",
-    "maxLength": 100
+    "maxLength": 300
   },
   "methodology.scope.exclusion_4_title": {
     "type": "text",
@@ -829,7 +861,7 @@
   },
   "methodology.scope.exclusion_5_desc": {
     "type": "text",
-    "maxLength": 120
+    "maxLength": 350
   },
   "methodology.scope.exclusion_5_title": {
     "type": "text",
@@ -837,11 +869,7 @@
   },
   "methodology.scope.exclusions_intro": {
     "type": "text",
-    "maxLength": 100
-  },
-  "methodology.scope.exclusions_title": {
-    "type": "text",
-    "maxLength": 60
+    "maxLength": 150
   },
   "methodology.scope.p1": {
     "type": "text",
@@ -853,7 +881,15 @@
   },
   "methodology.scope.p3": {
     "type": "text",
+    "maxLength": 400
+  },
+  "methodology.scope.p4": {
+    "type": "text",
     "maxLength": 500
+  },
+  "methodology.scope.p5": {
+    "type": "text",
+    "maxLength": 600
   },
   "methodology.scope.title": {
     "type": "text",
@@ -897,7 +933,7 @@
   },
   "methodology.toc_labels.limitations": {
     "type": "text",
-    "maxLength": 30
+    "maxLength": 60
   },
   "methodology.toc_labels.scope": {
     "type": "text",
@@ -945,7 +981,7 @@
   },
   "methodology.version.row_wh_cycle": {
     "type": "text",
-    "maxLength": 200
+    "maxLength": 60
   },
   "methodology.version.title": {
     "type": "text",
@@ -995,17 +1031,13 @@
     "type": "markdown",
     "maxLength": 600
   },
-  "methodology.what_we_track.annex_a.partial_title": {
-    "type": "text",
-    "maxLength": 30
-  },
   "methodology.what_we_track.annex_a.partial_yaws": {
     "type": "markdown",
     "maxLength": 200
   },
   "methodology.what_we_track.annex_a.subtitle": {
     "type": "text",
-    "maxLength": 100
+    "maxLength": 250
   },
   "methodology.what_we_track.annex_a.title": {
     "type": "text",
@@ -1024,32 +1056,28 @@
     "maxLength": 40
   },
   "methodology.what_we_track.annex_b.callout": {
-    "type": "text",
-    "maxLength": 250
+    "type": "markdown",
+    "maxLength": 300
   },
   "methodology.what_we_track.annex_b.label": {
     "type": "text",
     "maxLength": 30
   },
   "methodology.what_we_track.annex_b.note_1": {
-    "type": "text",
-    "maxLength": 400
+    "type": "markdown",
+    "maxLength": 500
   },
   "methodology.what_we_track.annex_b.note_2": {
-    "type": "text",
-    "maxLength": 200
-  },
-  "methodology.what_we_track.annex_b.note_3": {
-    "type": "text",
-    "maxLength": 150
-  },
-  "methodology.what_we_track.annex_b.note_4": {
-    "type": "text",
+    "type": "markdown",
     "maxLength": 250
   },
-  "methodology.what_we_track.annex_b.note_5": {
-    "type": "text",
+  "methodology.what_we_track.annex_b.note_3": {
+    "type": "markdown",
     "maxLength": 200
+  },
+  "methodology.what_we_track.annex_b.note_4": {
+    "type": "markdown",
+    "maxLength": 300
   },
   "methodology.what_we_track.annex_b.notes_title": {
     "type": "text",
@@ -1092,20 +1120,12 @@
     "maxLength": 300
   },
   "methodology.what_we_track.annex_c.maternal_p3": {
-    "type": "text",
+    "type": "markdown",
     "maxLength": 400
   },
   "methodology.what_we_track.annex_c.maternal_p4": {
-    "type": "text",
+    "type": "markdown",
     "maxLength": 800
-  },
-  "methodology.what_we_track.annex_c.maternal_p5": {
-    "type": "text",
-    "maxLength": 500
-  },
-  "methodology.what_we_track.annex_c.maternal_p6": {
-    "type": "text",
-    "maxLength": 650
   },
   "methodology.what_we_track.annex_c.maternal_title": {
     "type": "text",
@@ -1121,7 +1141,7 @@
   },
   "methodology.what_we_track.annex_c.sti_p2": {
     "type": "text",
-    "maxLength": 500
+    "maxLength": 600
   },
   "methodology.what_we_track.annex_c.sti_p3": {
     "type": "text",
@@ -1143,21 +1163,29 @@
     "type": "text",
     "maxLength": 30
   },
-  "methodology.where_information.callout": {
+  "methodology.where_information.expandable_intro_1": {
     "type": "text",
-    "maxLength": 300
+    "maxLength": 600
+  },
+  "methodology.where_information.expandable_intro_2": {
+    "type": "text",
+    "maxLength": 400
+  },
+  "methodology.where_information.expandable_subtitle": {
+    "type": "text",
+    "maxLength": 100
   },
   "methodology.where_information.expandable_title": {
     "type": "text",
-    "maxLength": 50
+    "maxLength": 60
   },
   "methodology.where_information.p1": {
     "type": "text",
-    "maxLength": 120
+    "maxLength": 300
   },
   "methodology.where_information.p2": {
     "type": "text",
-    "maxLength": 600
+    "maxLength": 400
   },
   "methodology.where_information.p3": {
     "type": "text",
@@ -1165,7 +1193,19 @@
   },
   "methodology.where_information.p4": {
     "type": "text",
-    "maxLength": 500
+    "maxLength": 350
+  },
+  "methodology.where_information.p5": {
+    "type": "text",
+    "maxLength": 700
+  },
+  "methodology.where_information.p6": {
+    "type": "text",
+    "maxLength": 300
+  },
+  "methodology.where_information.p7": {
+    "type": "text",
+    "maxLength": 300
   },
   "methodology.where_information.source_1_badge": {
     "type": "text",
@@ -1173,7 +1213,15 @@
   },
   "methodology.where_information.source_1_desc": {
     "type": "text",
-    "maxLength": 200
+    "maxLength": 250
+  },
+  "methodology.where_information.source_1_eid": {
+    "type": "text",
+    "maxLength": 500
+  },
+  "methodology.where_information.source_1_nd": {
+    "type": "text",
+    "maxLength": 400
   },
   "methodology.where_information.source_1_title": {
     "type": "text",
@@ -1185,11 +1233,15 @@
   },
   "methodology.where_information.source_2_desc": {
     "type": "text",
-    "maxLength": 150
+    "maxLength": 350
   },
   "methodology.where_information.source_2_title": {
     "type": "text",
     "maxLength": 40
+  },
+  "methodology.where_information.source_2_wh": {
+    "type": "text",
+    "maxLength": 400
   },
   "methodology.where_information.source_3_badge": {
     "type": "text",
@@ -1197,7 +1249,7 @@
   },
   "methodology.where_information.source_3_desc": {
     "type": "text",
-    "maxLength": 200
+    "maxLength": 350
   },
   "methodology.where_information.source_3_title": {
     "type": "text",
@@ -1209,7 +1261,7 @@
   },
   "methodology.where_information.source_4_desc": {
     "type": "text",
-    "maxLength": 200
+    "maxLength": 250
   },
   "methodology.where_information.source_4_title": {
     "type": "text",

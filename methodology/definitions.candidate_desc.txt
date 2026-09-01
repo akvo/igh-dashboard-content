@@ -1,1 +1,1 @@
-A candidate is still in development. A product has reached approval. Both sit in the same pipeline; what separates them is the stage reached, not the kind of thing being developed.
+A candidate is a countermeasure that is still under investigation and has not yet been approved for the disease, condition or indication recorded in the pipeline. It may be a novel entity, or an approved product that is being developed for a new indication or use and is counted in the pipeline only where that new indication or use is in scope.

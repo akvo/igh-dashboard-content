@@ -1,1 +1,1 @@
-G-FINDER, NIH RePORTER, UKRI Gateway to Research, Gates Foundation, CORDIS, SNSF grants database.
+These are grant databases maintained by major funders of global health R&D. They are used to find candidates and to validate candidates already held, and they are a primary route to discovery and preclinical work that has not yet reached a trial registry or the published literature.

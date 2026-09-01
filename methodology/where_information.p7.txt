@@ -1,0 +1,1 @@
+Not every source can originate a record. Some sources are used only to verify or enrich information from another source, such as mechanism of action, molecular target or route of administration. These sources do not introduce candidates or approved products on their own.

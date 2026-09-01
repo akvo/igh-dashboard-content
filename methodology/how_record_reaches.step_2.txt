@@ -1,1 +1,1 @@
-Sources are searched and relevant records are extracted, captured as they appear in each source.
+Sources are searched and relevant records are extracted. Each source is reviewed on its own terms, and the information is captured as it appears in that source before being assessed further.

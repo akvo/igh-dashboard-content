@@ -1,0 +1,1 @@
+The pipeline is a point-in-time record. Each global health area is reviewed on its own cycle, and the published information reflects what was publicly available at the time of that review. New, changed or discontinued activity may not appear until the next review cycle.

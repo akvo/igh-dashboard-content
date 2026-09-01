@@ -1,1 +1,1 @@
-AdisInsight — confirms mechanism of action, molecular target, route of administration, drug class, alternative names, developer roles and regulatory flags.
+AdisInsight is used to confirm and add technical detail on records already found — mechanism of action, molecular target, route of administration, drug class, alternative names, developer roles and regulatory flags. It is not searched for new candidates.

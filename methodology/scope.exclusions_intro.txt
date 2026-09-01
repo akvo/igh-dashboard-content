@@ -1,1 +1,1 @@
-Across all three areas, the following sit outside the pipeline by definition:
+The pipeline does not include work that falls outside direct product development. The main exclusions are:

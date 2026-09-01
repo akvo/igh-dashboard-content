@@ -1,1 +1,0 @@
-**The pipeline is not a market analysis.** It does not assess market size, demand, pricing, access, procurement or commercial viability. Its purpose is to show what is in development, or already approved, within the defined scope.

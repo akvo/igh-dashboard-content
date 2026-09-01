@@ -1,0 +1,1 @@
+A separate distinction runs across all of them, and it is the one that matters for how a record is built: whether a source can originate a pipeline record, or is used only to verify and enrich records that another source originated. It is stated against each group below.

@@ -1,1 +1,1 @@
-Placebo and standard-of-care arms are not recorded as separate entries.
+Comparator, placebo and standard-of-care arms are not recorded as separate pipeline entries. Where a study includes an intervention being developed or assessed, only that unique candidate, product or regimen is considered for inclusion.

@@ -1,0 +1,1 @@
+Each stage includes a sign-off point, so records are checked against the underlying source information before moving to the next stage.

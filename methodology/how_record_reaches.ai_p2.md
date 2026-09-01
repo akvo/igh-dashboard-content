@@ -1,1 +1,1 @@
-**AI does not decide whether a record is in scope, and it does not validate records for publication.** It is never the only source behind a record. Its outputs are treated as proposals.
+**Artificial intelligence does not decide whether a record is in scope, and it does not validate records for publication.** It is never the only source behind a record. Its outputs are treated as proposals.

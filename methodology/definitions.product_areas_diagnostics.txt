@@ -1,0 +1,1 @@
+Diagnostics are defined by what they detect or measure, rather than by their regulatory classification.

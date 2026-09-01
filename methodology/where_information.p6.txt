@@ -1,0 +1,1 @@
+Impact Global Health’s existing pipeline records are also used during each review. They help match new evidence against records already held, so that candidates and approved products are not counted twice under different names.
