@@ -705,7 +705,7 @@
   },
   "methodology.definitions.product_areas_dietary_supplements": {
     "type": "text",
-    "maxLength": 300
+    "maxLength": 350
   },
   "methodology.definitions.product_areas_drugs": {
     "type": "text",
