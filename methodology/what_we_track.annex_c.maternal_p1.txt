@@ -1,1 +1,1 @@
-Every maternal condition tracks drugs, biologics and dietary supplements. Diagnostics are tracked for three of the four — preterm labour/birth, preeclampsia/eclampsia and intrauterine growth restriction. Devices are tracked for postpartum haemorrhage only.
+Every maternal condition tracks drugs, biologics and dietary supplements. Diagnostics are tracked for two of the three — preterm labour/birth and preeclampsia/eclampsia. Devices are tracked for postpartum haemorrhage only.

@@ -1027,16 +1027,12 @@
     "type": "markdown",
     "maxLength": 500
   },
-  "methodology.what_we_track.annex_a.partial_snakebite": {
-    "type": "markdown",
-    "maxLength": 600
-  },
   "methodology.what_we_track.annex_a.partial_yaws": {
     "type": "markdown",
     "maxLength": 200
   },
   "methodology.what_we_track.annex_a.subtitle": {
-    "type": "text",
+    "type": "markdown",
     "maxLength": 250
   },
   "methodology.what_we_track.annex_a.title": {
@@ -1170,10 +1166,6 @@
   "methodology.where_information.expandable_intro_2": {
     "type": "text",
     "maxLength": 400
-  },
-  "methodology.where_information.expandable_subtitle": {
-    "type": "text",
-    "maxLength": 100
   },
   "methodology.where_information.expandable_title": {
     "type": "text",
