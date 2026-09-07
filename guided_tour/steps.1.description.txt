@@ -9,3 +9,5 @@ An at-a-glance view of health products approved or in development across three g
 **Pipeline Trends** — see how the pipeline evolves over time and compare portfolios.
 
 **WHO Priority alignment** — map the pipeline against the World Health Organization’s product-development priorities.
+
+**Methodology** — how the data is collected, what we track, how records are reviewed, and what the pipeline does not cover.

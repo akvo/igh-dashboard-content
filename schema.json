@@ -21,7 +21,7 @@
   },
   "guided_tour.steps.1.description": {
     "type": "text",
-    "maxLength": 900
+    "maxLength": 1000
   },
   "guided_tour.steps.1.title": {
     "type": "text",
@@ -53,9 +53,17 @@
   },
   "guided_tour.steps.13.description": {
     "type": "text",
-    "maxLength": 150
+    "maxLength": 250
   },
   "guided_tour.steps.13.title": {
+    "type": "text",
+    "maxLength": 80
+  },
+  "guided_tour.steps.14.description": {
+    "type": "text",
+    "maxLength": 150
+  },
+  "guided_tour.steps.14.title": {
     "type": "text",
     "maxLength": 80
   },
